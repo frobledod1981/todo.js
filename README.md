@@ -5,7 +5,7 @@ Proyecto con listado de Tareas desplegado en web GitHub Pages
 
 https://frobledod1981.github.io/todo.js/
 
-### Notas :
+### Notas al descargar proyecto recontruir packages :
 Recordar reconstruir modulos de Node 
 
 ```

@@ -1,7 +1,7 @@
 
-# Webpack starter
+# Listado de Tareas
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Proyecto con listado de Tareas desplegado en web GitHub Pages
 
 ### Notas :
 Recordar reconstruir modulos de Node 
